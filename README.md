@@ -35,7 +35,7 @@
 
 ## 🚀 Projects  
  **HTML/CSS/Js**  
-- 📊 [Habit Tracker](https://github.com/Prasanna6725/Habit-Tracker-project) — Simple tracker to build daily habits  
+- 📊 [Habit Tracker](https://github.com/Prasanna6725/Habit_Tracker_project) — Simple tracker to build daily habits  
 - ✊ [Rock Paper Scissors Game](https://github.com/Prasanna6725/rock-paper-scissors) — Fun game using **HTML,CSS and Javasript.** 
 ---
 
